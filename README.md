@@ -24,6 +24,13 @@ Le site présente les informations essentielles d’une université moderne :
 - ✔ Responsive design (mobile & tablette)
 - ✔ Interface simple et intuitive
 
+
+## 👥 Membres du projet
+
+- Lafleur Claudy  
+- Vendersa Laibhen  
+- Matyr Medlin  
+- Joseph Caveri
 ---
 
 ## 📁 Structure du projet
